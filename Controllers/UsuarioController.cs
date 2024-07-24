@@ -23,7 +23,7 @@ namespace MaqCenter.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult UsuarioIndex()
         {
             return View();
         }

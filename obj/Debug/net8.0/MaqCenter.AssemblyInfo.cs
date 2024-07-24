@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaqCenter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d1c56d102151f5bb9b12f8828c56a9f87571ea1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ef441e4b8470b963d387f23b1a6433a79ebc1ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaqCenter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaqCenter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
