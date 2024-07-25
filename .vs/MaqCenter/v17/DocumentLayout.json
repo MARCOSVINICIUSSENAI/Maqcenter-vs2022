@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\views\\agendamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:views\\agendamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\views\\usuario\\usuarioindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:views\\usuario\\usuarioindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T20:31:11.533Z",
+              "WhenOpened": "2024-07-25T17:33:09.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Usuario\\UsuarioIndex.cshtml",
-              "RelativeDocumentMoniker": "Views\\Usuario\\UsuarioIndex.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Usuario\\UsuarioIndex.cshtml",
-              "RelativeToolTip": "Views\\Usuario\\UsuarioIndex.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Agendamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Agendamento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Agendamento\\Index.cshtml",
+              "RelativeToolTip": "Views\\Agendamento\\Index.cshtml",
+              "ViewState": "AQIAACMBAAAAAAAAAAAAADcBAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T20:16:40.387Z",
+              "WhenOpened": "2024-07-25T17:31:14.709Z",
               "EditorCaption": ""
             }
           ]
