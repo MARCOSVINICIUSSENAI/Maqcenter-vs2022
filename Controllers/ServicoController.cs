@@ -4,11 +4,11 @@ using System.Diagnostics;
 
 namespace MaqCenter.Controllers
 {
-    public class AgendamentoController : Controller
+    public class ServicoController : Controller
     {
-        private readonly ILogger<AgendamentoController> _logger;
+        private readonly ILogger<ServicoController> _logger;
 
-        public AgendamentoController(ILogger<AgendamentoController> logger)
+        public ServicoController(ILogger<ServicoController> logger)
         {
             _logger = logger;
         }
@@ -18,14 +18,6 @@ namespace MaqCenter.Controllers
             return View();
         }
 
-        public IActionResult GerenciamentoAgendamentoUsuario()
-        {
-            return View();
-        }
-        public IActionResult CadastroAgendamento()
-        {
-            return View();
-        }
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

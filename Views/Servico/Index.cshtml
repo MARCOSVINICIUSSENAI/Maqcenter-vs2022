@@ -1,7 +1,6 @@
 ﻿@{
     Layout = "~/Views/Shared/_LayoutGerenciamento.cshtml";
 }
-
 <body>
     <header class="container">
         <h1 class="section-title">
@@ -14,7 +13,7 @@
         <div class="container page-maneger">
 
             <div class="add-user-button">
-                <h1 class="section-title cliente-title-maneger">Agendamento de Usuários</h1>
+                <h1 class="section-title cliente-title-maneger">Gerenciamento de Serviços</h1>
                 <br />
             </div>
 
@@ -30,7 +29,7 @@
                         <!-- Alteração para "text-md-end" para alinhar à direita apenas em telas médias e maiores -->
                         <button class="btn btn-success btn-lg" onclick="" data-bs-toggle="modal"
                                 data-bs-target="#InserirUsuario">
-                            <i class="fa fa-plus"></i> Adicionar Cliente
+                            <i class="fa fa-plus"></i> Adicionar serviços
                         </button>
                     </div>
                 </div>
@@ -44,61 +43,47 @@
                     <thead>
                         <tr>
                             <th>#</th>
-                            <th>Nome</th>
-                            <th>Senha</th>
-                            <th>Email</th>
-                            <th>Telefone</th>
-                            <th>Agendamento para data</th>
-                            <th class="editar">Horário</th>
-                            <th class="excluir">Técnica</th>
-                            <th class="excluir">Valor</th>
-                            <th class="excluir">Confirmação</th>
-                            <th style="color: blue; text-align: center;">Editar</th>></th>
-                            <th style="color: blue; text-align: center;">Excluir</th>></th>
+                            <th>Nome do Serviço</th>
+                            <th> Valor do Serviço</th>
+
+                            <th class="editar">Editar</th>
+                            <th class="excluir">Excluir</th>
                         </tr>
                     </thead>
                     <tbody>
 
-                    <th>#</th>
-                    <th>Nome</th>
-                    <th>Senha</th>
-                    <th>Email</th>
-                    <th>Telefone</th>
-                    <th>Agendamento para data</th>
-                    <th class="editar">Horário</th>
-                    <th class="excluir">Técnica</th>
-                    <th class="excluir">Valor</th>
-                    <th class="excluir">Confirmação</th>
+                        <tr id="Id">
+                            <td>Id</td>
+                            <td>NomeServico</td>
+                            <td>ValorServico</td>
 
-                    <span>Administrador</span>
-
-                    </td>
-                    <td class="text-center">
-                        <button class="btn btn-default"
-                             
-                                data-bs-toggle="modal" data-bs-target="#EditarUsuario">
-                            <i class="fa fa-edit"></i>
-                        </button>
-                    </td>
-                    <td class="text-center">
-                        <button class="btn btn-default"
-                                onclick="definirExc('Id', 'Nome', 'Email', 'Telefone')"
-                                data-bs-toggle="modal" data-bs-target="#ExcluirUsuario">
-                            <i class="fa fa-trash text-danger"></i>
-                        </button>
-                    </td>
-                    </tr>
+                            <td class="text-center">
+                                <button class="btn btn-default"
+                                        onclick="definirEdt('Id', 'Nome do Serviço', 'Email','Senha', 'TipoUsuario','Telefone')"
+                                        data-bs-toggle="modal" data-bs-target="#EditarUsuario">
+                                    <i class="fa fa-edit"></i>
+                                </button>
+                            </td>
+                            <td class="text-center">
+                                <button class="btn btn-default"
+                                        onclick="definirExc('Id', 'Nome', 'Email', 'Telefone')"
+                                        data-bs-toggle="modal" data-bs-target="#ExcluirUsuario">
+                                    <i class="fa fa-trash text-danger"></i>
+                                </button>
+                            </td>
+                        </tr>
 
                     </tbody>
                 </table>
             </div>
         </div>
 
+
         <div class="modal fade" id="EditarUsuario" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h1 class="modal-title" id="exampleModalLabel">Editar Cliente</h1>
+                        <h1 class="modal-title" id="exampleModalLabel">Editar Serviço</h1>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body">
@@ -114,32 +99,14 @@
                                 </div>
                             </div>
 
-                            <div class="mb-3 row">
-                                <div class="col-md-6">
-                                    <input id="EditSenha" type="text" class="form-control"
-                                           placeholder="Digite o a senha">
-                                </div>
-                                <div class="col-md-6">
-                                    <label style="color:red">*</label>
-                                </div>
-                            </div>
 
-                            <div class="mb-3 row">
-                                <div class="col-md-7">
-                                    <input id="EditEmail" type="email" class="form-control"
-                                           placeholder="Digite o email">
-                                </div>
-                                <div class="col-md-5">
-                                    <label style="color:red">*</label>
-                                </div>
-                            </div>
+
                             <div class="container">
                                 <div class="row mb-4">
 
                                     <select class="form-control" style="width:220px;">
-                                        <option value="" disabled selected hidden>Escolha o tipo de usuário...</option>
-                                        <option value="opcao1">Administrador</option>
-                                        <option value="opcao2">Cliente</option>
+                                        <option value="" disabled selected hidden> Valor do Serviço</option>
+
                                     </select>
 
                                     <div class="col-md-6">
@@ -148,15 +115,7 @@
                                 </div>
                             </div>
 
-                            <div class="mb-3 row">
-                                <div class="col-md-6">
-                                    <input id="EditTel" type="text" class="form-control"
-                                           placeholder="Digite o telefone">
-                                </div>
-                                <div class="col-md-6">
-                                    <label style="color:red">*</label>
-                                </div>
-                            </div>
+
                             <input type="hidden" id="IdEdt" value="" />
 
                         </form>
@@ -218,7 +177,7 @@
                 <div class="modal-content">
 
                     <div class="modal-header">
-                        <h1 class="modal-title" id="exampleModalLabel">Adicionar Cliente</h1>
+                        <h1 class="modal-title" id="exampleModalLabel">Adicionar Serviço</h1>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
 
@@ -228,7 +187,7 @@
                             <div class="mb-3 row">
                                 <div class="col-md-6">
                                     <input id="Nome" type="text" class="form-control"
-                                           placeholder="Digite o nome do cliente">
+                                           placeholder="Digite o tipo de serviço">
                                 </div>
                                 <div class="col-md-6">
                                     <label style="color:red">*</label>
@@ -237,41 +196,13 @@
 
                             <div class="mb-3 row">
                                 <div class="col-md-6">
-                                    <input id="Senha" type="text" class="form-control" placeholder="Digite o a senha">
+                                    <input id="Senha" type="text" class="form-control" placeholder="Digite o valor do serviço">
                                 </div>
                                 <div class="col-md-6">
                                     <label style="color:red">*</label>
                                 </div>
                             </div>
 
-                            <div class="mb-3 row">
-                                <div class="col-md-7">
-                                    <input id="Email" type="email" class="form-control" placeholder="Digite o email">
-                                </div>
-                                <div class="col-md-5">
-                                    <label style="color:red">*</label>
-                                </div>
-                            </div>
-
-                            <div class="mb-4 row">
-
-                                <select style="width:300px ;">
-                                    <option value="" disabled selected hidden>Escolha uma opção...</option>
-                                    <option value="opcao1">Admistrador</option>
-                                    <option value="opcao2">Cliente</option>
-
-                                </select>
-                            </div>
-
-                            <div class="mb-3 row">
-                                <div class="col-md-6">
-                                    <input id="Telefone" type="text" class="form-control"
-                                           placeholder="Digite o telefone">
-                                </div>
-                                <div class="col-md-6">
-                                    <label style="color:red">*</label>
-                                </div>
-                            </div>
 
                             <input type="hidden" id="IdEdt" value="" />
 
@@ -287,6 +218,7 @@
         </div>
 
         <!--Butao Voltar-->
+
         <section class="container text-center">
             <div class="d-grid gap-2 d-md-flex justify-content-md-center">
                 <div>
@@ -297,7 +229,7 @@
                 </div>
             </div>
         </section>
-       
+               
         <script>
 
             function definirEdt(id, Nome, Email, Senha, TipoUsuario, Telefone) {

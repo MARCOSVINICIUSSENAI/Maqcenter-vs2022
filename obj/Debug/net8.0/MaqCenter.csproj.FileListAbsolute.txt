@@ -59,3 +59,4 @@ C:\Users\Aluno Noite\Desktop\Maqcenter-vs2022\obj\Debug\net8.0\refint\MaqCenter.
 C:\Users\Aluno Noite\Desktop\Maqcenter-vs2022\obj\Debug\net8.0\MaqCenter.pdb
 C:\Users\Aluno Noite\Desktop\Maqcenter-vs2022\obj\Debug\net8.0\MaqCenter.genruntimeconfig.cache
 C:\Users\Aluno Noite\Desktop\Maqcenter-vs2022\obj\Debug\net8.0\ref\MaqCenter.dll
+C:\Users\Aluno Noite\Desktop\Maqcenter-vs2022\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutGerenciamento.cshtml.rz.scp.css

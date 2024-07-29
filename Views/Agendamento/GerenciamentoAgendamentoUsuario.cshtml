@@ -1,7 +1,6 @@
 ﻿@{
     Layout = "~/Views/Shared/_LayoutGerenciamento.cshtml";
 }
-
 <body>
     <header class="container">
         <h1 class="section-title">
@@ -75,14 +74,14 @@
                     </td>
                     <td class="text-center">
                         <button class="btn btn-default"
-                             
+                              
                                 data-bs-toggle="modal" data-bs-target="#EditarUsuario">
                             <i class="fa fa-edit"></i>
                         </button>
                     </td>
                     <td class="text-center">
                         <button class="btn btn-default"
-                                onclick="definirExc('Id', 'Nome', 'Email', 'Telefone')"
+                                onclick="definirExc('item.Id', 'item.Nome', 'item.Email', 'item.Telefone')"
                                 data-bs-toggle="modal" data-bs-target="#ExcluirUsuario">
                             <i class="fa fa-trash text-danger"></i>
                         </button>
@@ -291,7 +290,7 @@
             <div class="d-grid gap-2 d-md-flex justify-content-md-center">
                 <div>
                     <button type="button" id="send-button2" class="nav-link active btn btn-danger btn-block"
-                            style="flex: 1; margin-left: 5px;" onclick="window.location.href = '/Home/Index';">
+                            style="flex: 1; margin-left: 5px;" onclick="window.location.href = '/Home/index';">
                         Voltar
                     </button>
                 </div>
