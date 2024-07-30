@@ -75,8 +75,7 @@
               "RelativeToolTip": "wwwroot\\css\\submenu.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-30T18:28:09.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T18:28:09.536Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T18:27:15.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T18:27:15.15Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T18:22:11.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T18:22:11.717Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "wwwroot\\css\\agendamento_cliente.css",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-30T18:18:23.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T18:18:23.414Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "wwwroot\\css\\main.css",
               "ViewState": "AQIAAA4BAAAAAAAAAAAAACMBAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-30T18:16:55.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T18:16:55.239Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "wwwroot\\css\\usuario_index.css",
               "ViewState": "AQIAADMAAAAAAAAAAAAAACkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-30T18:15:36.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T18:15:36.673Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "Views\\Agendamento\\AgendamentoCliente.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T18:12:29.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T18:12:29.157Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "Views\\Usuario\\Index.cshtml",
               "ViewState": "AQIAAAUBAAAAAAAAAAAAACIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T18:06:48.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T18:06:48.664Z"
             }
           ]
         }
