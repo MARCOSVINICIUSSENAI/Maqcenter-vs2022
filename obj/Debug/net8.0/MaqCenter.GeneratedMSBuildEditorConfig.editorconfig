@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Aluno Noite\Desktop\Maqcenter-vs2022
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aluno Noite/Desktop/Maqcenter-vs2022/Views/Agendamento/CadastroAgendamento.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9cQ2FkYXN0cm9BZ2VuZGFtZW50by5jc2h0bWw=
+[C:/Users/Aluno Noite/Desktop/Maqcenter-vs2022/Views/Agendamento/AgendamentoCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9cQWdlbmRhbWVudG9DbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aluno Noite/Desktop/Maqcenter-vs2022/Views/Agendamento/GerenciamentoAgendamentoUsuario.cshtml]
@@ -69,6 +69,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Aluno Noite/Desktop/Maqcenter-vs2022/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2i4piro6o9
+
+[C:/Users/Aluno Noite/Desktop/Maqcenter-vs2022/Views/Shared/_LayoutCadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-5e9mon7lcj
 
 [C:/Users/Aluno Noite/Desktop/Maqcenter-vs2022/Views/Shared/_LayoutGerenciamento.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRHZXJlbmNpYW1lbnRvLmNzaHRtbA==

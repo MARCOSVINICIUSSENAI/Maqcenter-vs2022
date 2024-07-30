@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\views\\agendamento\\gerenciamentoagendamentousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:views\\agendamento\\gerenciamentoagendamentousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\views\\shared\\_layoutgerenciamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:views\\shared\\_layoutgerenciamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\views\\agendamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:views\\agendamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\wwwroot\\css\\submenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:wwwroot\\css\\submenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\wwwroot\\css\\agendamento_cliente.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:wwwroot\\css\\agendamento_cliente.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\wwwroot\\css\\usuario_index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:wwwroot\\css\\usuario_index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\views\\agendamento\\agendamentocliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:views\\agendamento\\agendamentocliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|c:\\users\\aluno noite\\desktop\\maqcenter-vs2022\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75B61AF4-8089-44B7-9845-A86F832EB4D0}|MaqCenter.csproj|solutionrelative:views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +54,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Agendamento\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Agendamento\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Agendamento\\Index.cshtml",
-              "RelativeToolTip": "Views\\Agendamento\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "_LayoutGerenciamento.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Shared\\_LayoutGerenciamento.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutGerenciamento.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Shared\\_LayoutGerenciamento.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutGerenciamento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T20:46:33.251Z",
+              "WhenOpened": "2024-07-30T18:30:10.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GerenciamentoAgendamentoUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Agendamento\\GerenciamentoAgendamentoUsuario.cshtml",
-              "RelativeDocumentMoniker": "Views\\Agendamento\\GerenciamentoAgendamentoUsuario.cshtml",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Agendamento\\GerenciamentoAgendamentoUsuario.cshtml",
-              "RelativeToolTip": "Views\\Agendamento\\GerenciamentoAgendamentoUsuario.cshtml",
-              "ViewState": "AQIAABUBAAAAAAAAAAAAACoBAAAHAAAA",
+              "DocumentIndex": 2,
+              "Title": "submenu.css",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\css\\submenu.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\submenu.css",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\css\\submenu.css",
+              "RelativeToolTip": "wwwroot\\css\\submenu.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-30T18:28:09.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T20:46:23.834Z",
+              "WhenOpened": "2024-07-30T18:27:15.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T18:22:11.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "agendamento_cliente.css",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\css\\agendamento_cliente.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\agendamento_cliente.css",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\css\\agendamento_cliente.css",
+              "RelativeToolTip": "wwwroot\\css\\agendamento_cliente.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-30T18:18:23.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\css\\main.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\main.css",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\css\\main.css",
+              "RelativeToolTip": "wwwroot\\css\\main.css",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAAACMBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-30T18:16:55.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "usuario_index.css",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\css\\usuario_index.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\usuario_index.css",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\css\\usuario_index.css",
+              "RelativeToolTip": "wwwroot\\css\\usuario_index.css",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-30T18:15:36.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgendamentoCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Agendamento\\AgendamentoCliente.cshtml",
+              "RelativeDocumentMoniker": "Views\\Agendamento\\AgendamentoCliente.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Agendamento\\AgendamentoCliente.cshtml",
+              "RelativeToolTip": "Views\\Agendamento\\AgendamentoCliente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T18:12:29.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAAACIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T18:06:48.664Z",
               "EditorCaption": ""
             }
           ]

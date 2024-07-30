@@ -31,14 +31,14 @@ h4,
 h5,
 h6,
 .bem-vindo{ 
-    color: var(--azul) !important;
+    color: var(--azul) ;
      font-family: 'Times New Roman';
     font-weight: 300;
 }
 
 a {
     text-decoration: none !important;
-    color: var(--azul) !important;
+    color: var(--azul) ;
 }
 
 p {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OIRFnIDtV32mVNPwgk/iJ0ngh8RJSveqSLlVSZSDXEA=",
+  "Hash": "ORosdWANMCvJuRXXlfsip5qAXLOfWXJW8Pta13M4TjI=",
   "Source": "MaqCenter",
   "BasePath": "_content/MaqCenter",
   "Mode": "Default",
@@ -131,12 +131,12 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\css\\submenu.css",
       "SourceId": "MaqCenter",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\",
       "BasePath": "_content/MaqCenter",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/submenu.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\submenu.css"
     },
     {
       "Identity": "C:\\Users\\Aluno Noite\\Desktop\\Maqcenter-vs2022\\wwwroot\\css\\usuario_index.css",

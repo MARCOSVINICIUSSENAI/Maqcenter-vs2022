@@ -289,7 +289,7 @@ header #menu-btn:hover{
 
 .home .content h1{
     font-size: 4rem;
-    color: var(--amarelo);
+    color: var(--amarelo) !important;
     padding: 1rem 0;
     text-transform: none;
 }

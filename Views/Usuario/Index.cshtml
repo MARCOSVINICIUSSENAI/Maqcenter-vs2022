@@ -3,18 +3,12 @@
 }
 
 <body>
-    <header class="container">
-        <h1 class="section-title">
-            <a href="index.html"><img src="~/images/Home/logo.png" alt="About-Image"></a>
-        </h1>
-    </header>
-
-
+ 
     <section class="maneger-page-section">
         <div class="container page-maneger">
 
             <div class="add-user-button">
-                <h1 class="section-title cliente-title-maneger">Agendamento de Usuários</h1>
+                <h1 class="section-title cliente-title-maneger">Gerenciamento de Usuários</h1>
                 <br />
             </div>
 
@@ -48,51 +42,45 @@
                             <th>Senha</th>
                             <th>Email</th>
                             <th>Telefone</th>
-                            <th>Agendamento para data</th>
-                            <th class="editar">Horário</th>
-                            <th class="excluir">Técnica</th>
-                            <th class="excluir">Valor</th>
-                            <th class="excluir">Confirmação</th>
-                            <th style="color: blue; text-align: center;">Editar</th>></th>
-                            <th style="color: blue; text-align: center;">Excluir</th>></th>
+                            <th>Tipo de Usuário</th>
+                            <th class="editar">Editar</th>
+                            <th class="excluir">Excluir</th>
                         </tr>
                     </thead>
                     <tbody>
 
-                    <th>#</th>
-                    <th>Nome</th>
-                    <th>Senha</th>
-                    <th>Email</th>
-                    <th>Telefone</th>
-                    <th>Agendamento para data</th>
-                    <th class="editar">Horário</th>
-                    <th class="excluir">Técnica</th>
-                    <th class="excluir">Valor</th>
-                    <th class="excluir">Confirmação</th>
+                        <tr id="">
+                            <td>Id</td>
+                            <td>Nome</td>
+                            <td>Senha</td>
+                            <td>Email</td>
+                            <td>Telefone</td>
+                            <td>
 
-                    <span>Administrador</span>
+                                <span>Administrador</span>
 
-                    </td>
-                    <td class="text-center">
-                        <button class="btn btn-default"
-                             
-                                data-bs-toggle="modal" data-bs-target="#EditarUsuario">
-                            <i class="fa fa-edit"></i>
-                        </button>
-                    </td>
-                    <td class="text-center">
-                        <button class="btn btn-default"
-                                onclick="definirExc('Id', 'Nome', 'Email', 'Telefone')"
-                                data-bs-toggle="modal" data-bs-target="#ExcluirUsuario">
-                            <i class="fa fa-trash text-danger"></i>
-                        </button>
-                    </td>
-                    </tr>
+                            </td>
+                            <td class="text-center">
+                                <button class="btn btn-default"
+                                        onclick="definirEdt('Id', 'Nome', 'Email','Senha', 'TipoUsuario','Telefone')"
+                                        data-bs-toggle="modal" data-bs-target="#EditarUsuario">
+                                    <i class="fa fa-edit"></i>
+                                </button>
+                            </td>
+                            <td class="text-center">
+                                <button class="btn btn-default"
+                                        onclick="definirExc('Id', 'Nome', 'Email', 'Telefone')"
+                                        data-bs-toggle="modal" data-bs-target="#ExcluirUsuario">
+                                    <i class="fa fa-trash text-danger"></i>
+                                </button>
+                            </td>
+                        </tr>
 
                     </tbody>
                 </table>
             </div>
         </div>
+
 
         <div class="modal fade" id="EditarUsuario" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
@@ -287,6 +275,7 @@
         </div>
 
         <!--Butao Voltar-->
+
         <section class="container text-center">
             <div class="d-grid gap-2 d-md-flex justify-content-md-center">
                 <div>
@@ -297,7 +286,14 @@
                 </div>
             </div>
         </section>
-       
+
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+        <script src="assets/lib/swiper/swiper-bundle.min.js"></script>
+
+        <script src="assets/lib/jquery/dist/jquery.min.js"></script>
+
+        <script src="assets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
         <script>
 
             function definirEdt(id, Nome, Email, Senha, TipoUsuario, Telefone) {

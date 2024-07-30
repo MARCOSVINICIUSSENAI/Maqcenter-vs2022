@@ -22,7 +22,7 @@ namespace MaqCenter.Controllers
         {
             return View();
         }
-        public IActionResult CadastroAgendamento()
+        public IActionResult AgendamentoCliente()
         {
             return View();
         }
